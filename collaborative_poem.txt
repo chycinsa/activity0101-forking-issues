@@ -49,3 +49,6 @@ After all, I spent a lot of time learning Python's Tkinter.
 
 I am learning to bake
 I like to eat cake
+
+We should stay home,
+playing with our phone.
